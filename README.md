@@ -1,4 +1,4 @@
-#OpenRefine
+# OpenRefine
 
 [![Build Status](https://travis-ci.org/OpenRefine/OpenRefine.png?branch=master)](https://travis-ci.org/OpenRefine/OpenRefine) [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=32795)](https://www.bountysource.com/trackers/32795-open-refine?utm_source=32795&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 
@@ -6,9 +6,11 @@ OpenRefine is a power tool that allows you to load data, understand it,
 clean it up, reconcile it, and augment it with data coming from
 the web. All with the comfort and privacy of your own computer.
 
+[<img src="https://github.com/OpenRefine/OpenRefine/blob/master/graphics/icon/open-refine-256px.png" align="right">](http://openrefine.org)
+
 Download
 -----------------------
-* [Latest Beta 2.6 rc2 - Recommended](https://github.com/OpenRefine/OpenRefine/releases)
+* [Latest Beta 2.7 rc2 - Recommended](https://github.com/OpenRefine/OpenRefine/releases)
 * [Latest Stable 2.5](https://github.com/OpenRefine/OpenRefine/releases/latest)
 
 Documentation and Videos
@@ -58,5 +60,6 @@ This is the full list of contributors (in chronological order):
  - Gabriel Sjoberg <GabrielSjoberg@gmail.com>
  - Rod Salazar <rodrod.salazar@gmail.com>
  - pxb <pxb1988@gmail.com>
-
+ - Qi <jackyq2015@gmail.com>
+ - Antonin Delpeuch <antonin@delpeuch.eu>
 
